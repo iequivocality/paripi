@@ -11,12 +11,20 @@
     "url": "git+https://github.com/iequivocality/paripi.git"
   },
   "keywords": [
-    "api"
+    "api",
+    "graphql",
+    "idols",
+    "aidoru",
+    "アイドル",
+    "japanese idols"
   ],
   "author": "iequivocality",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/iequivocality/paripi/issues"
   },
-  "homepage": "https://github.com/iequivocality/paripi#readme"
+  "homepage": "https://github.com/iequivocality/paripi#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.18.1"
+  }
 }
